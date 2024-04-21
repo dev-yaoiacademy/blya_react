@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12a77f2f.css",
-    "main.js": "/static/js/main.a672161c.js",
+    "main.js": "/static/js/main.2558bcfd.js",
     "static/css/911.39b4b0e9.chunk.css": "/static/css/911.39b4b0e9.chunk.css",
     "static/js/911.908dc289.chunk.js": "/static/js/911.908dc289.chunk.js",
     "static/css/963.411322cc.chunk.css": "/static/css/963.411322cc.chunk.css",
@@ -9,12 +9,12 @@
     "static/css/766.df2c9041.chunk.css": "/static/css/766.df2c9041.chunk.css",
     "static/js/766.c1774139.chunk.js": "/static/js/766.c1774139.chunk.js",
     "static/js/787.26203e9c.chunk.js": "/static/js/787.26203e9c.chunk.js",
-    "static/media/anime_school_entrance.png": "/static/media/anime_school_entrance.a41482665031417b174e.png",
-    "static/media/anime_school_paper.png": "/static/media/anime_school_paper.499da68f7fd779df5c9d.png",
+    "static/media/anime_school_entrance.webp": "/static/media/anime_school_entrance.8e6acce8f363444f28d9.webp",
+    "static/media/anime_school_paper.webp": "/static/media/anime_school_paper.e77b53f009eb29dd71da.webp",
     "static/media/main_logo.png": "/static/media/main_logo.01b611ca7822cd6423b1.png",
     "index.html": "/index.html",
     "main.12a77f2f.css.map": "/static/css/main.12a77f2f.css.map",
-    "main.a672161c.js.map": "/static/js/main.a672161c.js.map",
+    "main.2558bcfd.js.map": "/static/js/main.2558bcfd.js.map",
     "911.39b4b0e9.chunk.css.map": "/static/css/911.39b4b0e9.chunk.css.map",
     "911.908dc289.chunk.js.map": "/static/js/911.908dc289.chunk.js.map",
     "963.411322cc.chunk.css.map": "/static/css/963.411322cc.chunk.css.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.12a77f2f.css",
-    "static/js/main.a672161c.js"
+    "static/js/main.2558bcfd.js"
   ]
 }
